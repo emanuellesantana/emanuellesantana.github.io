@@ -1,0 +1,39 @@
+html, body{
+ margin:0;
+ text-align:center;
+}
+
+#imagem_fundo{
+     background-image: url(img/fundo\ 2\ sars.jpg);
+     background-size: cover;
+     height: 100%;
+     padding: 10px
+}
+ 
+#titulo{ 
+    color: forestgreen;
+    padding-top: 17%;
+    margin: 0%;
+    font-size: 450%;
+    text-shadow:2px 2px 4px black;
+}
+
+#subtitulo{
+    color: white;
+    font-size: 200%;
+    font-weight: 100;
+    margin-left: 25K;
+    margin-right: 25k;
+    padding-top: 28px;
+    text-shadow:4px 4px 6px black;
+}
+
+#acao{
+    color: white;
+    border: black;
+    border-radius: 50px;
+    padding: 20px 30px 20 px 30px;
+    font-size: 20px;
+    background-color: black;
+    text-decoration: none
+}
