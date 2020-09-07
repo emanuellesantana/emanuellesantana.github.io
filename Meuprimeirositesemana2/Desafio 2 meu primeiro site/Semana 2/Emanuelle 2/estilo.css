@@ -1,0 +1,126 @@
+html, body{
+    margin:0;
+    text-align:center;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+#imagem_fundo{
+    background-image: url(img/fundo\ 2\ sars.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100%;
+    padding: 10px;
+    text-align: center;
+}
+ 
+#titulo{ 
+    color: forestgreen;
+    padding-top: 17%;
+    margin: 0;
+    font-size: 450%;
+    text-shadow:2px 2px 4px black;
+}
+
+#subtitulo{
+    color: white;
+    font-size: 200%;
+    font-weight: 100;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 5%;
+    padding-top: 28px;
+    text-shadow:4px 4px 6px black;
+}
+
+#acao{
+    color: white;
+    border-radius: 20px;
+    padding: 10px 20px 10px 20px;
+    font-size: 20px;
+    text-decoration: none;
+    background-color: #000000;
+   
+}
+
+/*.imagemid{
+    width: 35%;
+}*/
+
+.icone{
+    width: 51px;
+}
+  
+section{
+    padding: 20px;
+    float: left;
+    text-align: center;
+}
+
+/*#diagnostico{
+    background-color: lightblue;
+}*/
+
+.destaque{
+    background-color: #82c9d93d;
+}
+
+/*#videos{
+    background-color: lightsteelblue;
+}*/
+
+.coluna{
+    float: left;
+    padding: 0 5%;
+    position: relative;    
+}
+
+.dois{
+    width: 40%;
+}
+
+.tres{
+    width: 29%;
+    padding: 0 2%;
+}
+
+.quatro{
+    width: 15%;
+}
+
+.imgcovid{
+    width: 100%;
+}
+
+.imgprojeto{
+    width: 100%;
+}
+
+.imgdiagnostico{
+    width: 70%;
+}
+
+.imgperguntas{
+    width: 80%;
+}
+
+.topocovid{
+    padding-top: 3%;
+}
+
+.topoprojeto{
+    padding-top: 8%;
+}
+
+.topodiagnostico{
+    padding-top: 2%;
+}
+
+.topoperguntas{
+    padding-top: 5%;
+}
+
+#sobre img{
+    width: 50%;
+    padding: 10px;
+}
